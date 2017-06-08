@@ -1,4 +1,4 @@
-#Look how **AWESOME** this page is!
+#Look how **AWESOME** this page is!!
 
 `console.log("Awesome, right??")`
 
