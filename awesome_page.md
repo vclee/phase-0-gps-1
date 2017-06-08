@@ -1,6 +1,6 @@
 #Look how **AWESOME** this page is!
 
-`console.log("Awesome, right?")`
+`console.log("Awesome, right??")`
 
 *super* awesome!
 
