@@ -4,4 +4,4 @@
 
 *super* awesome!
 
-[Google](https://www.google.com/) is also an awesome site!
+[Google](https://google.com/) is also an awesome site!
